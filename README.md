@@ -1,1 +1,8 @@
 # project4
+
+## Jiahui's Branch and Work --- Logistic Regression  ੭˙ᗜ˙)੭
+
+### Resources
+here're two tables could be merged by ID:
+-- application_record.csv
+-- credit_record.csv
