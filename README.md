@@ -4,5 +4,9 @@
 
 ### Resources
 here're two tables could be merged by ID:
--- application_record.csv
--- credit_record.csv
+
+- application_record.csv
+- credit_record.csv
+
+### CreditCard_ApprovalPrediction_Jiahui.ipynb
+is my final coding file
