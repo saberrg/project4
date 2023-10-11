@@ -1,6 +1,6 @@
 # project4
 
-## Jiahui's Branch and Work --- Logistic Regression  ੭˙ᗜ˙)੭
+### Jiahui's Branch and Work --- Logistic Regression  ੭˙ᗜ˙)੭
 
 ### Resources
 Here are the two tables could be merged by ID:
